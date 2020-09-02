@@ -1,6 +1,6 @@
 class Prices extends React.Component {
 	state = {
-		currency: 'EUR'
+		currency: 'USD'
 	}
 
 	render() {
